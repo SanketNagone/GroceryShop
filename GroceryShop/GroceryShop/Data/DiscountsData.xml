@@ -1,0 +1,6 @@
+﻿<Discounts>
+	<Dicsount Id="1" Type="1" DiscountPercent="10" ToBuy="0" Free="0"></Dicsount>
+	<Dicsount Id="2" Type="2" DiscountPercent="0" ToBuy="3" Free="1"></Dicsount>
+	<Dicsount Id="3" Type="1" DiscountPercent="5" ToBuy="0" Free="0"></Dicsount>
+	<Dicsount Id="4" Type="1" DiscountPercent="0" ToBuy="0" Free="0"></Dicsount>
+</Discounts>

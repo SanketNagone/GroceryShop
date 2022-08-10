@@ -1,0 +1,9 @@
+﻿<Products>
+	<Product pId="1" Name="ThumbsUp" DiscountId="1" price="30"></Product>
+	<Product pId="2" Name="ToiletCleaner" DiscountId="1" price="30"></Product>
+	<Product pId="3" Name="Mangoes" DiscountId="4" price="30"></Product>
+	<Product pId="4" Name="Cooking Oil Bottle - 1 liter" DiscountId="2" price="30"></Product>
+	<Product pId="5" Name="Sugar" DiscountId="4" price="30"></Product>
+	<Product pId="6" Name="Tea" DiscountId="3" price="30"></Product>
+	<Product pId="7" Name="Bulb" DiscountId="4" price="30"></Product>
+</Products>

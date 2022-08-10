@@ -1,0 +1,11 @@
+﻿<SpecialDayDiscounts>
+	<Discount Id="1" DiscountPercentage="2" Day="Monday" Month=""></Discount>
+	<Discount Id="2" DiscountPercentage="0" Day="Tuesday" Month=""></Discount>
+	<Discount Id="3" DiscountPercentage="5" Day="Wednesday" Month=""></Discount>
+	<Discount Id="4" DiscountPercentage="0" Day="Thursday" Month=""></Discount>
+	<Discount Id="5" DiscountPercentage="0" Day="Friday" Month=""></Discount>
+	<Discount Id="6" DiscountPercentage="0" Day="Saturday" Month=""></Discount>
+	<Discount Id="7" DiscountPercentage="0" Day="Sunday" Month=""></Discount>
+	<Discount Id="8" DiscountPercentage="15" Day="15" Month="08"></Discount>
+	<Discount Id="9" DiscountPercentage="25" Day="26" Month="01"></Discount>
+</SpecialDayDiscounts>
